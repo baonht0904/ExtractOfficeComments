@@ -10,4 +10,4 @@
 
 ## System constant
 + OS: Win10, Win11
-+ Have to support docx, xlsx, pptx; better if support doc, xls, ppt but not requirement.
++ Have to support docx, xlsx, pptx; better if support doc, xls, ppt but not required.
