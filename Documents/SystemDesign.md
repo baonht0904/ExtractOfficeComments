@@ -18,7 +18,7 @@
 ![Basic work flow of the Application](/Documents/Image/BasicWorkFlow.svg)
 
 ## UI/UX
-- UI design:
+- UI design:  
 ![UI of the Application](/Documents/Image/UI.svg)
 - Screen items:
     - File exployer view: A list view used to select file from local file system.
@@ -33,4 +33,3 @@
     - Users click \[Extract comment\] button. A "Save as file" dialog will be appeared for users to select a desired name that is used to contain the result.
     - A progress bar and extracting status will be display in a pop-up screen.
     - After finish extracting, a message will be appeared to notify user.
-    
