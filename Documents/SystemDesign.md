@@ -19,7 +19,9 @@
 
 ## UI/UX
 **UI design:**  
+
 ![UI of the Application](/Documents/Image/UI.svg)
+
 **Screen items:**
 - File exployer view: A list view used to select file from local file system.
 - Selected files view: A list view used to display the selected files.
@@ -28,6 +30,7 @@
 - \[Add\] button: A button used to add files that are selected in File exployer view to Selected files view.
 - \[Remove\] button: A button used to remove files from Selected files view.
 - \[Extract comment\] button: A button used to start the extract process.
+
 **Screen processing:**
 - Users use File exployer view, \[<-\], \[->\], \[Add\] and \[Remove\] button to selected the desired files that contain comments.
 - Users click \[Extract comment\] button. A "Save as file" dialog will be appeared for users to select a desired name that is used to contain the result.
